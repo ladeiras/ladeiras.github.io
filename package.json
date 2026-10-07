@@ -1,8 +1,8 @@
 {
-  "name": "notyetspecified",
+  "name": "ladeiras",
   "version": "2.0.1",
   "author": "Joao Ladeiras",
-  "homepage": "https://notyetspecified.github.io",
+  "homepage": "https://ladeiras.github.io",
   "scripts": {
     "start": "ng serve --host 0.0.0.0",
     "build": "rm -rf www && ng build -c production --base-href /www/ --output-hashing all"

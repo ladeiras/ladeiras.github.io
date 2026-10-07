@@ -152,9 +152,9 @@ export class DataProvider {
         type: 'Others',
         contacts: [
           {
-            url: 'https://github.com/notyetspecified',
+            url: 'https://github.com/ladeiras',
             icon: 'github',
-            title: 'notyetspecified.github.io',
+            title: 'ladeiras.github.io',
           },
         ],
       },
